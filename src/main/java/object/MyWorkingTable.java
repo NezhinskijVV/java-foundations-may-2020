@@ -11,5 +11,6 @@ public class MyWorkingTable {
         System.out.println("myFavoritePen.equals(myFavoritePen) = " + myFavoritePen.equals(myFavoritePen));
         System.out.println("myFavoritePen.equals(myFavoritePen2) = " + myFavoritePen.equals(myFavoritePen2));
         System.out.println("myFavoritePen.equals(string) = " + myFavoritePen.equals("myFavoritePen2"));
+
     }
 }
